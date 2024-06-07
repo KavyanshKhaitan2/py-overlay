@@ -1,14 +1,18 @@
-# overlay
+# py-overlay
+```
+Fork of davidmaamoaix/overlay
+Reason: Original repository not updated in a long time (2019) as the time of writing this, even though not archived.
+```
 A package that creates and manipulates screen overlays based on tkinter.
 
 ## Platforms
-- Mac OS (tested and works)
+- Mac OS (not tested)
 - Linux (not tested)
 - Windows (tested and does not work)
 
 ## Installation
 ```sh
-pip install overlay
+pip install py-overlay
 ```
 
 ## Usage
