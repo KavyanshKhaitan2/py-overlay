@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi-deploy
-      url: https://pypi.org/p/py-overlay
+      url: https://pypi.org/p/py-tkoverlay
     permissions:
       id-token: write
     steps:
