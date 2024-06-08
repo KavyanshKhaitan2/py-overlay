@@ -13,7 +13,7 @@ setup(
 	description = 'A package that creates and manipulates screen overlays based on tkinter.',
 	long_description = README,
 	long_description_content_type = "text/markdown",
-	url = 'https://github.com/davidmaamoaix/Overlay',
+	url = 'https://github.com/KavyanshKhaitan2/py-tkoverlay',
 	author = 'Kavyansh Khaitan',
 	author_email = "kavyanshkhaitan11@gmail.com",
 	license = 'MIT',
